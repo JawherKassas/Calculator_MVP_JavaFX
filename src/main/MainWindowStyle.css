@@ -1,0 +1,69 @@
+.root {
+    -fx-background-color:#FFFFFF;
+}
+
+.text-field{
+    -fx-background-color: #00000025;
+    -fx-border-radius: 8;
+    -fx-background-radius: 15 ;
+}
+
+
+.Button{
+    -fx-background-color: #00000025;
+    -fx-border-radius: 8;
+    -fx-background-radius: 15 ;
+
+}
+.Button:hover{
+    -fx-background-color: #004aad25;
+
+}
+
+.Buttontype1 {
+    -fx-background-color: #004aad85;
+    -fx-background-radius: 15;
+
+}
+.Buttontype1:hover{
+    -fx-background-color: #004aad75;
+
+}
+
+.Buttontype2 {
+    -fx-background-color: #004aad;
+    -fx-background-radius: 15;
+}
+.Buttontype2:hover{
+    -fx-background-color: #00000050;
+
+}
+
+
+.Buttontype3 {
+    -fx-background-color: #004aad50;
+    -fx-background-radius: 15;
+}
+.Buttontype3:hover{
+    -fx-background-color: #004aad60;
+
+}
+
+
+.Buttontype4 {
+    -fx-background-color: #004aad25;
+    -fx-background-radius: 15;
+}
+.Buttontype4:hover{
+    -fx-background-color: #004aad35;
+
+}
+
+.Pane1{
+    -fx-background-color: "transparent" ;
+    -fx-font-size: 15px;
+}
+
+.Text{
+    -fx-background-color:#fff ;
+}
